@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# hr_FE
-=======
 # Dự án máy chấm công và quản lý nhân sự
 
 ## 📋 Mô tả dự án
